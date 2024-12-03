@@ -79,7 +79,7 @@ Pharm-उपाय is a mobile application developed using Artificial Intelligen
 ![Workflow Diagram](https://github.com/Gourish112/pharmUpaay/blob/16298dd78608421d5a95e21da16131b67f55015a/workflow.jpeg)
 
 ### Plant Disease Detection Screen
-![Plant Diagnosis]()
+![Plant Diagnosis](https://github.com/Gourish112/pharmUpaay/blob/15cb67bf64e74cfe3b9cbb609437a45b95b1b0ef/PharmUpaay/sample.jpeg)
 
 ---
 
@@ -87,7 +87,7 @@ Pharm-उपाय is a mobile application developed using Artificial Intelligen
 
 Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pharm-upaay.git
+   git clone https://github.com/Gourish112/pharm-upaay.git
 ```
 
 ## **Future Scope**
