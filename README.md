@@ -26,8 +26,7 @@ Pharm-उपाय is a mobile application developed using Artificial Intelligen
 2. **Main Menu Options:**
    - **Take Picture:** Use the camera to capture an image of the affected crop/plant.
    - **Launch Gallery:** Select an existing image from the device gallery.
-   - **Chatbot:** Interact with the app's chatbot for further assistance.
-   - **Video Conferencing:** Connect with an expert for professional advice.
+  
 
 3. **Disease Diagnosis:**
    - The app processes the image using an ML model to detect and identify the disease, providing a clear diagnosis and actionable insights.
@@ -36,20 +35,41 @@ Pharm-उपाय is a mobile application developed using Artificial Intelligen
 
 ## **Technologies Used**
 
-- **Front-end Development:**
-  - Framework: [Flutter/React Native/Your Choice]
-  - UI Design: [Specify Design Tools if Any]
 
-- **Backend Development:**
-  - Programming Language: Python
-  - Framework: Flask/Django/FastAPI (if applicable)
+### Languages
+- **Python**: Used for scripting and machine learning model development.
+- **Go**: Utilized for high-performance backend services.
 
-- **Machine Learning:**
-  - Image Recognition: TensorFlow/Keras
-  - NLP for Chatbot: [Dialogflow/Custom NLP Model]
+### Deep Learning Frameworks
+- **TensorFlow**: Framework for building and training deep learning models.
 
-- **Database:**
-  - Firebase/SQLite/MongoDB
+### Distributed Computing
+- **Apache Spark**: Framework for distributed data processing and analytics.
+- **Ray**: A framework for distributed computing and scaling machine learning workloads.
+
+### Deployment Tools
+- **Docker**: Containerization for consistent environments across development and production.
+- **Kubernetes**: Orchestration tool for deploying, scaling, and managing containerized applications.
+
+### Notebooks
+- **Jupyter Notebook**: Interactive notebooks for data analysis and model prototyping.
+- **Google Colab**: Cloud-based Jupyter notebooks with free GPU/TPU support.
+
+### Machine Learning Pipelines
+- **MLflow**: Tool for tracking experiments, model packaging, and deployment.
+- **Kubeflow**: Kubernetes-based platform for developing, deploying, and managing ML pipelines.
+- **TensorFlow Extended (TFX)**: End-to-end platform for deploying production ML pipelines.
+
+### Cloud Providers
+- **Amazon Web Services (AWS)**: Cloud platform for infrastructure and ML services.
+- **Amazon SageMaker**: Managed service for building, training, and deploying ML models.
+- **Google Cloud Platform (GCP)**: Cloud platform for infrastructure and ML services.
+- **Google AI**: Tools and APIs for AI development.
+- **Microsoft Azure**: Cloud platform with robust ML and AI services.
+- **Azure Machine Learning**: Managed service for ML model lifecycle.
+- **IBM Cloud**: Cloud platform for infrastructure and AI workloads.
+- **IBM Watson**: AI suite for natural language processing and other AI-driven tasks.
+
 
 ---
 
