@@ -76,7 +76,7 @@ Pharm-उपाय is a mobile application developed using Artificial Intelligen
 ## **Screenshots**
 
 ### Workflow Diagram
-![Workflow Diagram]("workflow.jpeg")
+![Workflow Diagram](https://github.com/Gourish112/pharmUpaay/blob/16298dd78608421d5a95e21da16131b67f55015a/workflow.jpeg)
 
 ### Plant Disease Detection Screen
 ![Plant Diagnosis]()
